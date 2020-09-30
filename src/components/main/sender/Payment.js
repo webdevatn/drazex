@@ -6,6 +6,7 @@ import ImagePath from '../../../assets/ImagePath';
 import Fonts from '../../../assets/Typography';
 import { normalize } from '../../../utils/helpers/mixins';
 import Header from '../../../widgets/Header';
+import Footer from '../../../widgets/Footer';
 import SenderInputField from '../../../widgets/SenderInputField';
 
 export default function Payment(props) {
@@ -56,6 +57,7 @@ export default function Payment(props) {
                                     </TouchableOpacity>
                             </View>
                         </View>
+                        <Footer/>
                 </ScrollView>
             </SafeAreaView>
         </Fragment>

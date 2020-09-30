@@ -6,6 +6,7 @@ import ImagePath from '../../../assets/ImagePath';
 import Fonts from '../../../assets/Typography';
 import { normalize } from '../../../utils/helpers/mixins';
 import Header from '../../../widgets/Header';
+import Footer from '../../../widgets/Footer';
 import SenderInputField from '../../../widgets/SenderInputField';
 import { BottomTab } from '../../../../App';
 
@@ -61,7 +62,17 @@ export default function SenderHome(props) {
                                         <Text style={{fontSize: normalize(14), color: Colors.white, fontWeight: Fonts.bold, lineHeight: normalize(42)}} onPress={() => props.navigation.navigate('ReceiverDetails')}>ADD</Text>
                                     </TouchableOpacity>
                             </View>
-                    </View>
+                            <View >
+                                <TouchableOpacity style={{
+                                    marginBottom: normalize(10),
+                                    height: normalize(40), width: '100%', alignItems: 'center',
+                                    justifyContent: 'center', borderRadius: normalize(20),
+                                    backgroundColor: Colors.white
+                                }} onPress={() => { props.navigation.navigate("BottomTab") }}>
+                                </TouchableOpacity>
+                            </View>
+                    </View>  
+                    <Footer/>                
                 </ScrollView>
             </SafeAreaView>
         </Fragment>

@@ -6,6 +6,7 @@ import ImagePath from '../../../assets/ImagePath';
 import Fonts from '../../../assets/Typography';
 import { normalize } from '../../../utils/helpers/mixins';
 import Header from '../../../widgets/Header';
+import Footer from '../../../widgets/Footer';
 
 export default function Confirmation(props) {
 
@@ -34,6 +35,7 @@ export default function Confirmation(props) {
                                     </TouchableOpacity>
                             </View>
                         </View>
+                        <Footer/>
                 </ScrollView>
             </SafeAreaView>
         </Fragment>

@@ -119,7 +119,7 @@ const BottomTab = () => {
             </Stack.Navigator>
         :
             <Stack.Navigator screenOptions={{ headerShown: false }} initialRouteName={"SenderHome"}> 
-                {/* <Stack.Screen name="BottomTab" component={BottomTab} />  */}
+                {/* <Stack.Screen name="BottomTab" component={BottomTab} /> */}
                 <Stack.Screen name="SenderHome" component={SenderHome} />            
                 <Stack.Screen name="ReceiverDetails" component={ReceiverDetails} />   
                 <Stack.Screen name="Payment" component={Payment} />   
