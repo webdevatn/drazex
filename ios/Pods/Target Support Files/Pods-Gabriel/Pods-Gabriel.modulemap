@@ -1,0 +1,6 @@
+module Pods_Gabriel {
+  umbrella header "Pods-Gabriel-umbrella.h"
+
+  export *
+  module * { export * }
+}

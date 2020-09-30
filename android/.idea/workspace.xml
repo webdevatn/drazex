@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2c556a9c-9918-4082-a0c6-a935967a3ecb" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/assets/ImagePath.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/assets/ImagePath.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/auth/Login.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/auth/Login.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/auth/OtpValidation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/auth/OtpValidation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/auth/Register.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/auth/Register.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/auth/UserType.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/auth/UserType.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/TabNavigator/Airports.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/TabNavigator/Airports.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/TabNavigator/OpenTrips.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/TabNavigator/OpenTrips.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/TabNavigator/TrackTrip.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/TabNavigator/TrackTrip.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/receiver/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/sender/Confirmation.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/sender/Confirmation.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/sender/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/sender/Payment.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/sender/Payment.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/sender/ReceiverDetails.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/sender/ReceiverDetails.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/shared/Menu.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/shared/Menu.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/shared/OrderHistory.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/shared/OrderHistory.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/shared/Profile.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/shared/Profile.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/transporter/Home.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/transporter/QrScanner.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/transporter/QrScanner.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/components/main/transporter/SelectTransporter.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/components/main/transporter/SelectTransporter.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../src/widgets/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/../src/widgets/Header.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="width" value="1920" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2c556a9c-9918-4082-a0c6-a935967a3ecb" name="Default Changelist" comment="" />
+      <created>1597157613803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597157613803</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <layout>
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.33280087" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Favorites" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="TODO" order="1" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="2" visible="true" weight="0.3299595" />
+      <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="4" visible="true" weight="0.3299595" />
+      <window_info anchor="right" id="Capture Analysis" order="0" />
+      <window_info anchor="right" id="Gradle" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+    </layout>
+  </component>
+</project>
